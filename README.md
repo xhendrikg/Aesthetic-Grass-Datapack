@@ -19,9 +19,9 @@ Usage:
 -----------------------------------------------------------------------------------
 Tips:
 
-    Use it to decorate your Bases Roof or
+    Use it to decorate your Bases Roof,
     Stone Blocks or
-    A old house
+    An old house
 
 -----------------------------------------------------------------------------------
 
